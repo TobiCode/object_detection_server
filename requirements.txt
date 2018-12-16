@@ -1,0 +1,6 @@
+numpy==1.15.3
+tensorflow
+matplotlib==3.0.1
+Keras==2.2.4
+opencv-python
+Pillow
