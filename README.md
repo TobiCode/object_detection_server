@@ -24,7 +24,8 @@ Song Y, Guadarrama S, Murphy K, CVPR 2017 <br>
 
 ##How to run the applications
 
-###Run the server.py file
+###Run the server.py file <br>
+
 <img src="Res_Github/Person_detected.PNG" height="200px" title="Object Detection Running"> <br>
 
 ###Open the andriod app
