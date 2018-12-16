@@ -37,3 +37,6 @@ poll for updates, if the object detection is detecting a person. <br>
 
 <img src="Res_Github/Warning.jpeg" height="200px" title="App View Warning"> <br>
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
